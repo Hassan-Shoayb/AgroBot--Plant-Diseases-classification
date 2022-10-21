@@ -1,16 +1,4 @@
-# agrotech
+# AgroBot
 
-A new Flutter project.
+Using Deep convolutional neural networks (DCNN) to detect plant disease from the snapshot of the plant leaf. All a farmer has to do is capture the plant leaf image from the app on his mobile. The app will send this image to a TensorFlow tflite model. The AI model will detect the disease from the image and send back the disease name, remedies, and precautions to the farmer.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
